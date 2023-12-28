@@ -1,23 +1,5 @@
 # Learning-In
 
-<h1 align="center">
-  <a href="https://github.com/CommunityOfCoders/Inheritance-2022">
-    <img src="https://res.cloudinary.com/dn6vz8exv/image/upload/v1665664791/inh_zzefoy.jpg" alt="CoC Inheritance 2022" width="500" height="166">
-   </a>
-   
-  <br>
-  CoC Inheritance 2022
-</h1>
-
-<div align="center">
-   <strong>Learning-In</strong>:- is a Innovative and a user friendly E-Learning website <br>
-  - Team Codding Gujjus <br> <br>
-  <a href="https://github.com/stealth-bombeer/Learning-In/stargazers"><img alt="GitHub issues" src="https://img.shields.io/github/stars/stealth-bombeer/Learning-In"></a>
-  <a href="https://github.com/stealth-bombeer/Learning-In/network/members"><img alt="GitHub stars" src="https://img.shields.io/github/forks/stealth-bombeer/Learning-In"></a>
-  <a href="https://github.com/stealth-bombeer/Learning-In/issues"><img alt="GitHub contributors" src="https://img.shields.io/github/issues/stealth-bombeer/Learning-In"></a>
-    <img src="https://komarev.com/ghpvc/?username=Learning-In&label=Project%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-</div>
 
 <details>
 <summary>Table of Contents</summary>
@@ -86,12 +68,9 @@
   
  ## 🔗Links
 
-- [GitHub Repository]()
 - [Demo Video]()
 - [Drive Link to Screenshots of your project]()
-- [Hosted Website Link]()
-- [App APK Link]()
-- [Hosted Backend Link]()
+
 
   
 ## 🛠Project Setup
@@ -134,13 +113,4 @@ Backend:-
 - [ ] A proctoring system for mode-1 can be implemented to avoid unfair means during quizzes.
 
 
-## 👩‍💻Team members
 
-- **Kunal Goudani** 😈 - goudanikuanl3@gmail.com
-- **Dhruvisha Anghan** 🐬 - dhruvishaanghan2114@gmail.com
-- **Dev Bhuva** 👹- dbbhuva@gmail.com
-
-## 👨‍🏫Mentors
-
-- **Harsh Nag** 🤖 - harshnag23@gmail.com
-- **Smit Sekhadia** 👾 - smitsekhadia99@gmail.com
