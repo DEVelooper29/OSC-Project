@@ -111,7 +111,7 @@ const Scorecard = ({ score, count, setCount }) => {
                 />
                 <div class="p-6 flex flex-col justify-start">
                   <h5 class="text-gray-900 text-xl font-medium mb-2">
-                    Your Fucking Score is: {score}/{count - 1}
+                    Your Score is: {score}/{count - 1}
                   </h5>
                   <p class="text-black text-base text-xl mb-4"></p>
                   <button
